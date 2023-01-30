@@ -76,5 +76,19 @@ Car o-- Engine
 -------------
 
 ## 2.6.6 จงเขียน code ตามตัวอย่างในด้านขวาให้สมบูรณ์เพื่อให้แสดงภาพตามไดอะแกรมในด้านซ้าย
+```puml
+@startuml 
+class Car{}
+class Engine{}
+class Door{}
+class Wheel{}
+class AirConditioner{}
 
+Car <|-- "1..1" Engine
+Car <|-- "2..4" Door
+Car <|-- "4..4" Wheel
+Car <|-- "0..1" AirConditioner
+@enduml 
+```
+![image](https://user-images.githubusercontent.com/115037574/215581158-4f316b44-ed6c-4ccf-b858-a31d6c4a5459.png)
 -------------
