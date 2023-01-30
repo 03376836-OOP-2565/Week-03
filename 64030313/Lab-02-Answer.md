@@ -10,7 +10,18 @@
 -------------
 
 ## 2.6.2 ให้เขียน code เพื่อให้เกิดภาพ class diagram ดังรูปต่อไปนี้
+```puml
+@startuml 
+class Dog{}
+class Cat{}
 
+Cat <|.. whiteCat
+Dog <|.. whiteDog
+Cat <|.. blackCat
+Dog <|.. blackDog
+@enduml 
+```
+![image](https://user-images.githubusercontent.com/115037574/215578781-791ed399-2738-4d09-b42b-91df5f9211f3.png)
 
 -------------
 
