@@ -53,7 +53,26 @@ classroom o-- Teacher
 -------------
 
 ## 2.6.5 จงเขียน code ตามตัวอย่างในด้านขวาให้สมบูรณ์เพื่อให้แสดงภาพตามไดอะแกรมในด้านซ้าย
+```puml
+@startuml 
+class MotorBoat{}
+class Car{}
+class Helm{}
+class Engine{}
+class Door{}
+class Wheel{}
+class SteeringWheel{}
 
+MotorBoat o-- Helm
+MotorBoat o-- Engine
+
+Car o-- Door
+Car o-- Wheel
+Car o-- SteeringWheel
+Car o-- Engine
+@enduml 
+```
+![image](https://user-images.githubusercontent.com/115037574/215580240-a8c7e430-4af0-413a-ae17-ee83351f21ec.png)
 -------------
 
 ## 2.6.6 จงเขียน code ตามตัวอย่างในด้านขวาให้สมบูรณ์เพื่อให้แสดงภาพตามไดอะแกรมในด้านซ้าย
