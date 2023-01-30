@@ -27,6 +27,7 @@ Dog <|.. blackDog
 
 
 ## 2.6.3 ให้นำ code ในรูปนี้ไปเขียนใน plantUML จะได้รูปคลาสไดอะแกรมแบบใดออกมา
+![image](https://user-images.githubusercontent.com/115037574/215579121-3678917e-01d7-43be-8b9d-40e6cddecec4.png)
 
 
 -------------
