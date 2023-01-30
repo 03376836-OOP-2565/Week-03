@@ -33,8 +33,23 @@ Dog <|.. blackDog
 -------------
 
 ## 2.6.4 จงเขียน code ตามตัวอย่างในด้านขวาให้สมบูรณ์เพื่อให้แสดงภาพตามไดอะแกรมในด้านซ้าย
+```puml
+@startuml 
+class classroom{}
+class Whiteboard{}
+class Table{}
+class Chair{}
+class Student{}
+class Teacher{}
 
-
+classroom o-- Whiteboard
+classroom o-- Table
+classroom o-- Chair
+classroom o-- Student
+classroom o-- Teacher
+@enduml 
+```
+![image](https://user-images.githubusercontent.com/115037574/215579816-9e10b93a-5010-47a3-9401-cdbc4a8f0a5d.png)
 -------------
 
 ## 2.6.5 จงเขียน code ตามตัวอย่างในด้านขวาให้สมบูรณ์เพื่อให้แสดงภาพตามไดอะแกรมในด้านซ้าย
