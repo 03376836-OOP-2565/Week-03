@@ -4,7 +4,7 @@
 
 
 ##  2.6.1  ให้คัดลอก code ไปเขียนใน plantUML เพื่อให้เกิดภาพ class diagram ดังรูปต่อไปนี้
-
+![image](https://user-images.githubusercontent.com/115037574/215578419-19d97bf0-1033-4af1-95d8-dde471c1de64.png)
 
 
 -------------
