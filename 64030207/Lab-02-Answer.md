@@ -17,7 +17,7 @@
 
 ## 2.6.3 ให้นำ code ในรูปนี้ไปเขียนใน plantUML จะได้รูปคลาสไดอะแกรมแบบใดออกมา
 
-![ภาพ](https://user-images.githubusercontent.com/115066278/221641599-c5930993-4cbe-40f1-924c-6d48231e11ed.png)
+![ภาพ](https://user-images.githubusercontent.com/115066278/221642606-5554d242-d34e-42f9-80fd-10d5e2bc1a03.png)
 
 -------------
 
