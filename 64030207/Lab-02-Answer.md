@@ -29,7 +29,7 @@
 
 ## 2.6.5 จงเขียน code ตามตัวอย่างในด้านขวาให้สมบูรณ์เพื่อให้แสดงภาพตามไดอะแกรมในด้านซ้าย
 
-![ภาพ](https://user-images.githubusercontent.com/115066278/221641642-145bff53-36a8-4cc1-a097-b0d820e4866b.png)
+![ภาพ](https://user-images.githubusercontent.com/115066278/221643661-19cfefdf-4207-4777-a71d-4ed765f868ec.png)
 
 -------------
 
