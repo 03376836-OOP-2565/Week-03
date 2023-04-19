@@ -12,7 +12,8 @@
 
 ## 2.6.2 ให้เขียน code เพื่อให้เกิดภาพ class diagram ดังรูปต่อไปนี้
 
-![image](https://user-images.githubusercontent.com/116150760/233011299-9af6d727-c45a-40e3-bb30-8d1dcf1fd764.png)
+![image](https://user-images.githubusercontent.com/116150760/233011497-eb57b575-2cfd-4296-a469-6a740b98377c.png)
+
 
 -------------
 
