@@ -5,18 +5,21 @@
 
 ##  2.6.1  ให้คัดลอก code ไปเขียนใน plantUML เพื่อให้เกิดภาพ class diagram ดังรูปต่อไปนี้
 
+![image](https://user-images.githubusercontent.com/116150760/233010371-0840086e-d2ce-44e7-9414-4ae5102dde07.png)
 
 
 -------------
 
 ## 2.6.2 ให้เขียน code เพื่อให้เกิดภาพ class diagram ดังรูปต่อไปนี้
 
+![image](https://user-images.githubusercontent.com/116150760/233011299-9af6d727-c45a-40e3-bb30-8d1dcf1fd764.png)
 
 -------------
 
 
 ## 2.6.3 ให้นำ code ในรูปนี้ไปเขียนใน plantUML จะได้รูปคลาสไดอะแกรมแบบใดออกมา
 
+![image](https://user-images.githubusercontent.com/116150760/233011343-3a61cd6b-7e40-4c1f-ba91-6fec2406800a.png)
 
 -------------
 
